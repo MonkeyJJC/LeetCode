@@ -4,9 +4,11 @@
 .settings/
 
 
-# Intellij project files
+### IntelliJ IDEA ###
+.idea
+*.iws
 *.iml
-.idea/
+*.ipr
 
 # Others
 target/
