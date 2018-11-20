@@ -9,6 +9,7 @@
 
 - [002_Add Two Numbers](/problems/src/medium/_002/AddTwoNumber.java) 
 - [003_Longest Substring Without Repeating Characters](/problems/src/medium/_003/LongestSubStr.java) 
+- [005_Longest Palindromic Substring](/problems/src/medium/_005/Palindromic.java) 
 
 
 
