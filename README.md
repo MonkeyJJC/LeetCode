@@ -3,6 +3,7 @@
 #### [Easy](problems/src/easy)
 
 - [001_Two Sum](/problems/src/easy/_001/TwoSum.java) 
+- [014_Two Sum](/problems/src/easy/_014/LongestCommonPrefix.java) 
 
 
 #### [medium](problems/src/easy)

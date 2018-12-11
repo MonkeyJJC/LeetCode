@@ -16,6 +16,7 @@ logs/
 modules/utils副本
 *.log
 *.bak
+out/
 
 # OS generated files
 .DS_Store
